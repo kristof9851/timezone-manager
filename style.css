@@ -1,18 +1,15 @@
-body {
-    /* margin: 20px; */
-}
-
 #title-row {
     height: 60px;
 }
 
-#table-heading {
-    height: 25px;
+#table-heading-row {
+    height: 60px;
 }
 
-#table-body {
-    height: calc(100vh - 85px);
+#table-body-row {
+    height: calc(100vh - 120px);
 }
-/* .timezone-container {
-    max-height: 200px;
-} */
+
+.small {
+    font-size: small;
+}
