@@ -1,0 +1,18 @@
+body {
+    /* margin: 20px; */
+}
+
+#title-row {
+    height: 60px;
+}
+
+#table-heading {
+    height: 25px;
+}
+
+#table-body {
+    height: calc(100vh - 85px);
+}
+/* .timezone-container {
+    max-height: 200px;
+} */
